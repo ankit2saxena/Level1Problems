@@ -1,0 +1,7 @@
+This problem examines Wolberg's breast cancer data. 
+http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+
+data: breast-cancer-wisconsin.data
+description: breast-cancer-wisconsin.names
+
+I have applied k-means clustering and calculated the error rate for different values of k for the given data.
